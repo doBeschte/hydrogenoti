@@ -6,7 +6,7 @@ I design it using Fusion360 and print it with PETG.
 
 In total, it is 160mm high and 60mm Ø.
 
-<img width="1868" height="1916" alt="image" src="https://github.com/user-attachments/assets/73c4de26-b47d-42e4-b297-a4ddcd285dc5" />
+![Hydrogenoti](https://github.com/user-attachments/assets/a8616dd2-5a79-4b9c-834f-1d054744de1f)
 
 The shape is like a bottle, ideal to bring the gas smoothly from the electrodes into the bomb.
 
