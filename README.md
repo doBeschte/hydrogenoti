@@ -25,7 +25,7 @@ The electrodes are nine. So I had to choose to which pole 5 of them will be conn
 
 <img width="678" height="663" alt="image" src="https://github.com/user-attachments/assets/44abb42d-e87e-49f5-8c51-904f787cad2f" />
 
-They are all connected as shown in the picture:
+They are all connected with copper wires as shown in the picture:
 
 <img width="1366" height="995" alt="image" src="https://github.com/user-attachments/assets/d0ad0a04-fdbd-49f5-ad68-2877c2cca7ca" />
 
