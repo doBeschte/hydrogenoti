@@ -29,3 +29,7 @@ They are all connected as shown in the picture:
 The graphite sticks will be mounted like this into the holes under the container:
 
 <img width="2010" height="1778" alt="image" src="https://github.com/user-attachments/assets/72d93392-0731-4878-8252-5b090582e003" />
+
+## **chemics**
+
+I will use destillated water and try some acids and baking soda as electrolytes.
